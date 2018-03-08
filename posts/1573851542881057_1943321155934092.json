@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "1220166774749498", 
+    "name": "Dakota Snustad"
+  }, 
+  "id": "1573851542881057_1943321155934092", 
+  "message": "Hey, just a reminder that the October Bridges Connect Dinner is tonight!  Come and connect with some international students on campus! We are talking about identity tonight, so it's a great opportunity to talk about our identity in Christ! We would love to see you there!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10203800311725483", 
+        "name": "Connor Hashemi", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2037952492886789", 
+        "name": "Natasha Peterson", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdNVFl4TnpRd01ESTJPakUxTURnMU16RTFPRE02TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQTBNRGt4TmpjeU1UZAzJPakUxTURnMU16WTFPVEU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2016-04-25T22:32:14+0000", 
+        "from": {
+          "id": "10212837471083319", 
+          "name": "Jacklyn Nelson"
+        }, 
+        "id": "1697573467175530", 
+        "message": "You can interview me after Shift!"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFk1TnpVM016UTJOekUzTlRVek1Eb3hORFl4TmpJek5UTTAZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFk1TnpVM016UTJOekUzTlRVek1Eb3hORFl4TmpJek5UTTAZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10215581304751715", 
+    "name": "David Nelson"
+  }, 
+  "id": "1573851542881057_1697520217180855", 
+  "message": "SENIORS: Hey y'all! As some of you know, I'm currently involved in a TV reporting class and will be doing my final story of the year on Cru/Shift. I'm hoping to talk to a couple of you about your experience in Cru and what it's like being in a \"religious affiliated\" group on campus for a majority of your college experience. SOOO, if you're willing to be interviewed on camera this Wednesday before or after Shift, please let me know in the comments or in a personal message.\n\nAlso, there are about 20 students in my class who will watch this and, based on conversations, none of them are believers. This is a super cool opportunity to talk about Cru, the love of Christ, and why He is worthy of our praise and worship during college. Like I said, let me know in the comments or message me if you're interested.\n\nThanks guys!\n\nP.S. This means I'll be filming parts of Shift on Wednesday. So, don't freak out if there's a camera in front of you!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1590799184292470", 
+        "name": "Amy Yi", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1681439038583153", 
+        "name": "Lauren Otto", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155378191483710", 
+        "name": "Amy Stein", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213350226304092", 
+        "name": "Nicholas Jackson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1645707085489633", 
+        "name": "Krista Hamann", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10211311977977287", 
+        "name": "Katie Hannestad", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1578492555567044", 
+        "name": "Katelyn Schroeder", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213457272737717", 
+        "name": "Erik Tungland", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10211549457035989", 
+        "name": "Abbie Homan", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210164788188609", 
+        "name": "Mackenzie Darling", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215535507686157", 
+        "name": "Amy Underwood", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10156143552337845", 
+        "name": "Taylor Woodall", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TlRFek5qY3lPRFEwT2pFME5qRTJNVEU1TURrNk1qVTBNRGsyTVRZAeE13PT0ZD", 
+        "before": "TVRBd01EQXdPRGN5TVRJek1qY3pPakUwTmpFMk1qZA3pOVGM2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

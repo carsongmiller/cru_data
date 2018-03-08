@@ -1,0 +1,82 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2016-02-19T09:12:05+0000", 
+        "from": {
+          "id": "1708303689221509", 
+          "name": "Jenifer Smith"
+        }, 
+        "id": "1670641479868729", 
+        "message": "And if you need any more inspiration, I was at a prayer night last night where someone pointed out that giving God what we value most (time, sleep) is most valuable to Him. After all, He is outside of time, and ours on this earth is limited. So do it! Praying for you all from Spain! \ud83d\ude01"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFkzTURZAME1UUTNPVGcyT0RjeU9Ub3hORFUxT0Rjek1USTEZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFkzTURZAME1UUTNPVGcyT0RjeU9Ub3hORFUxT0Rjek1USTEZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1982288902036529", 
+    "name": "Emily Wydo"
+  }, 
+  "id": "1573851542881057_1670550423211168", 
+  "message": "Hello lovely people of UMN Cru.\nTomorrow is Friday (can I get an amen)\nAnd that means Project Abide \naka special time set aside for a Jesus date!!!\nI'll be there bright eyed and bushy tailed at the Purple Onion around 8 am- come join me whenever.\n\nFor those who don't think they have the time (like me most often) - this quote from Francis Chan hits me:\n\"There is no substitute for being alone with God. If you don\u2019t have time, you need to quit something to make room. Skip a meal. Cancel a meeting. End some regular commitment. There is literally nothing more important you could do today. \nCould anything be better? How can we not make time to be with the Maker of time?\" \n\nAnd again the offer stands, if you want coffee, but only have $3 to your name and the coffee you want is $3.24, I'll buy! \nSee you there.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10212960191814379", 
+        "name": "Rachel Joy Abercrombie", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212515445034913", 
+        "name": "Bri Schmitt", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214384443635599", 
+        "name": "Bradley Ni", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1522679944446762", 
+        "name": "Liz McMillen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1991513320875521", 
+        "name": "Emily Magnuson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1764679770265571", 
+        "name": "Kara Eckberg", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215175597290322", 
+        "name": "Aaron Shaw", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10211597792483941", 
+        "name": "Faith Gnerer", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNek9UVTFOelV6T0RveE5EVTFPRFUwTlRVMU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBM09EY3lNVGs1TXpveE5EVTFPRGcxT1RFM09qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

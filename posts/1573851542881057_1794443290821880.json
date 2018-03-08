@@ -1,0 +1,161 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2016-12-07T05:39:27+0000", 
+        "from": {
+          "id": "2173505262675191", 
+          "name": "Everett Tsang"
+        }, 
+        "id": "1794443497488526", 
+        "message": "Cons:  Nick Anderson will be attending"
+      }, 
+      {
+        "created_time": "2016-12-07T05:42:38+0000", 
+        "from": {
+          "id": "1686449131405584", 
+          "name": "Olivia Johnson"
+        }, 
+        "id": "1794444384155104", 
+        "message": "Pro:  Nick Anderson will be shaving his head"
+      }, 
+      {
+        "created_time": "2016-12-07T05:48:41+0000", 
+        "from": {
+          "id": "10215439423678604", 
+          "name": "Nathan Studanski"
+        }, 
+        "id": "1794445307488345", 
+        "message": "How about a Call Me Maybe/Barbershop mashup? It would easily win the dance competition"
+      }, 
+      {
+        "created_time": "2016-12-07T05:49:02+0000", 
+        "from": {
+          "id": "1710378252326163", 
+          "name": "Nick Anderson"
+        }, 
+        "id": "1794445354155007", 
+        "message": "Hey that's me!"
+      }, 
+      {
+        "created_time": "2016-12-07T05:55:30+0000", 
+        "from": {
+          "id": "10214541165742552", 
+          "name": "John Ke"
+        }, 
+        "id": "1794446687488207", 
+        "message": "#RIPTCX"
+      }, 
+      {
+        "created_time": "2016-12-07T06:00:24+0000", 
+        "from": {
+          "id": "1614758415237805", 
+          "name": "Haley Trewin"
+        }, 
+        "id": "1794447684154774", 
+        "message": "& like, if you register by next Wednesday you might get to pie a fireseed (Zach) at shift so keep that in mind"
+      }, 
+      {
+        "created_time": "2016-12-07T18:07:07+0000", 
+        "from": {
+          "id": "10213254621652659", 
+          "name": "Leah Wolf"
+        }, 
+        "id": "1794757427457133", 
+        "message": "Pro: they have cool tshirts"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TkRjMU56UXlOelExTnpFek16b3hORGd4TVRNME1ESTQZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TkRRME16UTVOelE0T0RVeU5qb3hORGd4TURnNU1UWTQZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1051875281621709", 
+    "name": "David Ebben"
+  }, 
+  "id": "1573851542881057_1794443290821880", 
+  "message": "Reminder: Only 10 (very soon to be 9) days left to sign up for CWC before price goes up. In case you're still unsure, here are some pros and cons of going to CWC to help you make a decision: \n\nPros:\n1) If 150 U of M students sign up, rumor has it that Connor Lund will be re-enacting his heart-rending 2012 cover of Call Me Maybe, live at the Hilton. (link for the uninitiated: https://www.facebook.com/connor.lund.731/videos/t.100000091875627/493170210696037/?type=2&theater)\n\n2) You'll get to witness Charles Schaller's performance of the Bema Seat, which is a life-changing experience. \n\n3) Early reports seem to indicate that Nick Anderson will be in attendance.\n\nCons:\n.\n\nHere's the link to sign up!\nhttps://www.cru.org/communities/campus/winterconference.html", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10154893770941459", 
+        "name": "Alyssa Ofstedahl", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1645707085489633", 
+        "name": "Krista Hamann", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215428465094757", 
+        "name": "Michael Francis", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1694792690572124", 
+        "name": "Amy Olsen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214541165742552", 
+        "name": "John Ke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1578492555567044", 
+        "name": "Katelyn Schroeder", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1982288902036529", 
+        "name": "Emily Wydo", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1710378252326163", 
+        "name": "Nick Anderson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1555068064579191", 
+        "name": "Katherine Myers", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2173505262675191", 
+        "name": "Everett Tsang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155316565428237", 
+        "name": "Autumn Beckman", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2165092553504810", 
+        "name": "Joshua Gudahl", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdNVEl5TlRrM09URTRPakUwT0RFd09Ea3hORE02TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TlRVek9UUTJORFU0T2pFME9ERXhORGd4TWpNNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

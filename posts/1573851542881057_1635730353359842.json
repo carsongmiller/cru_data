@@ -1,0 +1,53 @@
+{
+  "from": {
+    "id": "1928038333877793", 
+    "name": "Amy Shields"
+  }, 
+  "id": "1573851542881057_1635730353359842", 
+  "message": "Cru-tons! Today is one of our Bridges events! Come and meet international students and take funny pictures with them in our photo scavenger hunt going to Stone Arch Bridge! Meeting in Coffman at 2. Bring money for dinner afterwards! We would love for you all to come and join us! It will be so much fun!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1698995160144583", 
+        "name": "Croix Menzel", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155954199923048", 
+        "name": "Charlene Chew", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210589201029116", 
+        "name": "Andrea Meitler", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "899343146901824", 
+        "name": "Katie Erdmann", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214984789238913", 
+        "name": "Gabby Gonzalez", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1708303689221509", 
+        "name": "Jenifer Smith", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215108040000150", 
+        "name": "Kadie Schnabel", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRRd05UazVNVEUxTVRveE5EUTFOemswTnpjNU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXhNREl6TkRjM05EVTNPakUwTkRVNE1UYzJOamM2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

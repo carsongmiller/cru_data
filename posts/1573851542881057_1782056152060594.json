@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "1569995489747361", 
+    "name": "Eric Hess"
+  }, 
+  "id": "1573851542881057_1782056152060594", 
+  "message": "Hey guys, here is a message from your local habitat for humanity chapter. Check it out!\n\nDo you have plans for winter break? The UMN Habitat for Humanity Chapter currently has openings in their alternative winter break trips! The dates of the trip are January 8, 2017 - January 14, 2017.\n\nHere is a general overview of what a winter break trip with Habitat for Humanity entails:\n\nwork Monday through Friday from approximately 8 a.m. to 4 p.m.\nprojects may include improving existing housing structures, helping build a house or volunteering on other projects that help meet the goals of Habitat for Humanity in the community\nevenings to be free to use as your group desires (visit the beach, explore the town, etc.)\nLocations include:\n\nYork, Pennsylvania \nWinston-Salem, North Carolina\nNew Smyrna, Florida\nEmail toni.marano@uofmhabitat.org  for more information!He", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1578492555567044", 
+        "name": "Katelyn Schroeder", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1809883889024656", 
+        "name": "Connor Lund", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1815843821824011", 
+        "name": "Nicole Schwieters", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhPVFV5TXpFMU1USXdPakUwTnpnM016VTNNRE02TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXlNVGc1TkRNNE5qY3pPakUwTnpnM09ETTFNemM2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

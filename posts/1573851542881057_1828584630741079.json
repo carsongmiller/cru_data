@@ -1,0 +1,72 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-02-17T15:03:25+0000", 
+        "from": {
+          "id": "1982288902036529", 
+          "name": "Emily Wydo"
+        }, 
+        "id": "1828585134074362", 
+        "message": "I'm curious to know the accusations made against me...."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd5T0RVNE5URXpOREEzTkRNMk1qb3hORGczTXpRek9EQTEZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd5T0RVNE5URXpOREEzTkRNMk1qb3hORGczTXpRek9EQTEZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1555068064579191", 
+    "name": "Katherine Myers"
+  }, 
+  "id": "1573851542881057_1828584630741079", 
+  "message": "Hello wonderful people of Cru!\nSo I have good news and bad news for y'all and I'm going to start with the bad news.\nThe bad news is that Emily Wydo has recently had some accusations made against her by the public (see below) and cannot lead sharing today.\nThe good news is that Manmaker and Women's Retreat start in just a few hours! Because registration starts at 5, Curtis Zicker and I have made an executive decision to not hold a Friday sharing time this week. But, we will be holding one next week and would love to have you join us! Have an amazing weekend at Manmaker and Women's Retreat everyone!\n\nIf you care to know more about the accusations made against Emily, please watch this very informative YouTube video.\n", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1533639273352268", 
+        "name": "Curtis Zicker", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10210766752821908", 
+        "name": "Anna Oliver", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1764679770265571", 
+        "name": "Kara Eckberg", 
+        "type": "ANGRY"
+      }, 
+      {
+        "id": "1681439038583153", 
+        "name": "Lauren Otto", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1792025010830841", 
+        "name": "Kailee Kriegel", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215428465094757", 
+        "name": "Michael Francis", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRVek1UUXdOell4TWpveE5EZAzNNelEwTXpNNE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXhNVGcyTWprMU1qa3lPakUwT0RjMk1UQTFNVEk2TnpnNE5qUTRNRE0zT1RFek16RXkZD"
+      }
+    }
+  }
+}

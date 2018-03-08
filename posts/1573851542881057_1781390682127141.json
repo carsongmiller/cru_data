@@ -1,0 +1,67 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2016-11-08T16:09:50+0000", 
+        "from": {
+          "id": "1969880233036990", 
+          "name": "Jason Adlam"
+        }, 
+        "id": "1781392195460323", 
+        "message": "Crap I forgot!!!"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM0TVRNNU1qRTVOVFEyTURNeU16b3hORGM0TmpJeE16a3cZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM0TVRNNU1qRTVOVFEyTURNeU16b3hORGM0TmpJeE16a3cZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1982288902036529", 
+    "name": "Emily Wydo"
+  }, 
+  "id": "1573851542881057_1781390682127141", 
+  "message": "Mornin'\nSo Tuesday sharing is picking up where we left off. I'll be going as always from 5:30-6:30 in Coffman! Meet me at the top of the escalators.\nIf you've never been, I personally invite you to come with the team that has assembled over the past few weeks. We are more than happy to help you and let you watch if you're uncomfortable! I promise, the more you do it, the easier it gets (practice makes perfect, right?)\n\nSharing is simply the act of praising God for what He has done by letting as many people as we can know about the Good News that was once shared with us. \nBecause like TBH I don't know what I would do without Jesus rn in the midst of midterms and just general college life. \n\n(PS don't forget to get out and vote!)\nPeace n' blessings.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212788975912069", 
+        "name": "Brooke Halvorson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1533639273352268", 
+        "name": "Curtis Zicker", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1555068064579191", 
+        "name": "Katherine Myers", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10208151570346232", 
+        "name": "Jon Burns", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1710378252326163", 
+        "name": "Nick Anderson", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdOakl3TVRReE1UY3pPakUwTnpnMk1qRXhNamc2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQTBNRGt4TmpjeU1UZAzJPakUwTnpnMk5EazBNakU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

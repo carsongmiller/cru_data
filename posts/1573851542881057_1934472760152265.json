@@ -1,0 +1,110 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-10-01T00:14:03+0000", 
+        "from": {
+          "id": "1971554446428903", 
+          "name": "Tommy Doherty"
+        }, 
+        "id": "1934477293485145", 
+        "message": "https://m.youtube.com/watch?v=4v4b6zc_yG4"
+      }, 
+      {
+        "created_time": "2017-10-01T00:41:11+0000", 
+        "from": {
+          "id": "1809883889024656", 
+          "name": "Connor Lund"
+        }, 
+        "id": "1934482360151305", 
+        "message": "ONLY if it's God-honoring"
+      }, 
+      {
+        "created_time": "2017-10-01T17:01:01+0000", 
+        "from": {
+          "id": "1051875281621709", 
+          "name": "David Ebben"
+        }, 
+        "id": "1934773890122152", 
+        "message": "1) what stood out to you about today's sermon?\n\n2) what other ways do we mistakenly try and find righteousness with God other than Jesus? Fill in the blank for your life: Jesus plus ____ equals righteousness.\n\n3) what have you been learning in your life about Jesus recently?"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGt6TkRjM016ZAzVNREV5TWpFMU1qb3hOVEEyT0RjM01qWXgZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGt6TkRRM056STVNelE0TlRFME5Ub3hOVEEyT0RFMk9EUXoZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1051875281621709", 
+    "name": "David Ebben"
+  }, 
+  "id": "1573851542881057_1934472760152265", 
+  "message": "Hello cru! Come to the embassy (728 13th Ave SE) at 11:30 tomorrow morning for some God-honoring discussion about the hope sermon. Food will be provided also! Rumor has it that if you arrive early enough then you can witness Tommy Doherty himself makin bacon pancakes.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10208514289294470", 
+        "name": "Chelsea Spencer", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215535507686157", 
+        "name": "Amy Underwood", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1944157972265605", 
+        "name": "Courtney Yung", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1748552338788069", 
+        "name": "David Deming", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210307180308602", 
+        "name": "Josh Holtz", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1971554446428903", 
+        "name": "Tommy Doherty", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1558266234253442", 
+        "name": "Gabe Kaufmann", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1607037739423373", 
+        "name": "Julia Christine Asmus", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1681439038583153", 
+        "name": "Lauren Otto", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1982288902036529", 
+        "name": "Emily Wydo", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQTNOall6TVRRek16VTFPakUxTURZANE1UVTRNelk2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQTBNRGt4TmpjeU1UZAzJPakUxTURZANE56UXdNamc2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

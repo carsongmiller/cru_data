@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "10210905639053944", 
+    "name": "David Morelli"
+  }, 
+  "id": "1573851542881057_1664605877138956", 
+  "message": "ATTENTION MEN: The sign up for Man Maker 2016 is now ready! The conference will take place February 26th-27th and the cost is $25! In order to register, follow the link below and sign into your Relay account (the same account you used to sign up for Fall Retreat). If you don't have an account, make one and then sign in.  Then, search for Man Maker 2016 and follow the prompts to sign in! Please pay with a credit card; however, if you would prefer to pay in cash, please give that to Brad Gustafson. Please no checks!\n\nhttps://www.conferenceregistrationtool.com/registration/profileAnswers.seam?registrantId=366995&scid=496383\n\nIf you have any questions, please email Brad Gustafson at brad.gustafson@cru.org. Excited to see you there!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "2004986882861851", 
+        "name": "Brad Gustafson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213457272737717", 
+        "name": "Erik Tungland", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215428465094757", 
+        "name": "Michael Francis", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRVek1UUXdOell4TWpveE5EVTBNelV3TlRVek9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXdOVEUyTnpVME1USXpPakUwTlRRek5qUXpNemM2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

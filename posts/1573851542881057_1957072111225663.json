@@ -1,0 +1,43 @@
+{
+  "from": {
+    "id": "10101540307979112", 
+    "name": "Ryan Carlson"
+  }, 
+  "id": "1573851542881057_1957072111225663", 
+  "message": "Still looking for housing for Fall 2018?  Have you ever dreamed of living at The Cru House? (Not just a Cru House, but THEE Cru House) Here is your chance! Check out the following Craiglist postings for the two Cru House apartments. \n\nUPPER FLOOR POSTING: U of M DINKYTOWN 4 BED 3 BATH FALL 2018\nhttps://minneapolis.craigslist.org/hnp/apa/6375430233.html\n\nMAIN FLOOR POSTING:  *** U OF M DINKYTOWN 3 BED 1 BATH FALL 2018\nhttps://minneapolis.craigslist.org/hnp/apa/6375458196.html", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10155220249543660", 
+        "name": "Jenna Olson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1922774227750507", 
+        "name": "Sarah Strandmark", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1607037739423373", 
+        "name": "Julia Christine Asmus", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215253403391198", 
+        "name": "Keegan Shay", 
+        "type": "WOW"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNeE56WXlOREEwTVRveE5URXhNamM1T1RVek9qYzRPRFkwT0RBek56a3hNek14TWc9PQZDZD", 
+        "before": "TlRJek1qQTROalU1T2pFMU1URTBNREl3TXpJNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

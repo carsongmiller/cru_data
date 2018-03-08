@@ -1,0 +1,65 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2015-05-04T16:51:58+0000", 
+        "from": {
+          "id": "10155138443947546", 
+          "name": "Brandon Weeks"
+        }, 
+        "id": "1575627696036775", 
+        "message": "Wait, I hope you're being facetious"
+      }, 
+      {
+        "created_time": "2015-05-04T17:01:28+0000", 
+        "from": {
+          "id": "10212837471083319", 
+          "name": "Jacklyn Nelson"
+        }, 
+        "id": "1575629946036550", 
+        "message": "Why? I'm being serious. Can we change it? Like, I'm not going to stop being a part of the Facebook page if it's not changed, it's just always going to confuse and bother me. I completely acknowledge that not everybody thinks that hand sign is the sign of the devil, but I do. It's really easy to change and there are a lot of other good options."
+      }, 
+      {
+        "created_time": "2015-05-04T17:07:08+0000", 
+        "from": {
+          "id": "10155138443947546", 
+          "name": "Brandon Weeks"
+        }, 
+        "id": "1575633052702906", 
+        "message": "I'm okay with changing it, I'm sure it's just a place holder anyways, but, let me send you a PM."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFUzTlRZAek16QTFNamN3TWprd05qb3hORE13TnpVNU1qSTQZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFUzTlRZAeU56WTVOakF6TmpjM05Ub3hORE13TnpVNE16RTQZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10212837471083319", 
+    "name": "Jacklyn Nelson"
+  }, 
+  "id": "1573851542881057_1575306616068883", 
+  "message": "I'd like to start a movement to change the icon for this group from the hand sign of the devil (very similar yet distinct from the \"I Love You\" sign, seen in the attached image) to anything else. The current icon is symbolic of Satan's devil horns, and can be frequently seen at Heavy Metal concerts while people proclaim \"hail Satan\". While there is certainly some contest over what the hand sign \"really\" means, some scholars claiming that the sign has been \"misinterpreted\" from its original meaning, the fact remains that the sign is sometimes interpreted as the sign of the devil, and certainly holds negative connotations that I feel we as warriors AGAINST Satan's evil forces should attempt to distance ourselves from.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1997710240471884", 
+        "name": "Bailee Lass", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210589201029116", 
+        "name": "Andrea Meitler", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNeE9UUTJOVEk0TXpveE5ETXdOamt4TURVMU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQTJPVGczT0RJMU1UYzNPakUwTXpBM05qRXhNakU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

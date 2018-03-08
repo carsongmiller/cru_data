@@ -1,0 +1,66 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2015-12-15T19:30:05+0000", 
+        "from": {
+          "id": "1653680251356862", 
+          "name": "Zach Carlstrom"
+        }, 
+        "id": "1648707462062131", 
+        "message": "And we will all meet (d-league) all star Tyus Jones!"
+      }, 
+      {
+        "created_time": "2015-12-15T19:33:44+0000", 
+        "from": {
+          "id": "1653680251356862", 
+          "name": "Zach Carlstrom"
+        }, 
+        "id": "1648707808728763", 
+        "message": "I do also have a serious question(s): will we all be sitting together? Can we buy multiple tickets (say I want to buy the first fifty so only I high five players)? What is the deadline to sign up? What time is the game? Who will the wolves be losing to that night? Will everyone point and laugh if I miss a free throw? What are the odds I stuff KAT?"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFkwT0Rjd056ZA3dPRGN5T0RjMk16b3hORFV3TWpBNE1ESTAZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFkwT0Rjd056UTJNakEyTWpFek1Ub3hORFV3TWpBM09EQTEZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10210164788188609", 
+    "name": "Mackenzie Darling"
+  }, 
+  "id": "1573851542881057_1648707235395487", 
+  "message": "Hey everyone! Just a reminder to buy your tickets for the Timberwolves game! We are going on Saturday the 23rd of January at 7:00pm. Tickets are $23 and we'll all be sitting together. We will also get to hear the Timberwolves President Chris Wright talk about his faith journey and how that has impacted his career, as well as each shoot a free throw on the court after the game!\n\nSign up with this link: www.timberwolves.com/groupoffers \nUse the code: CRU. \nIt will give you the option to get a ticket in one of two sections, but we will all be sitting together so it shouldn't matter where you choose to get a seat.\n\nYou can buy multiple tickets so invite your friends (can be anyone), just be sure to sign up by December 20th! Remember the first 50 people to sign up get to high-five the players as they come onto the floor at the beginning of the game.\nIf you have any questions, message Paul or I, or talk to us at SHIFT tomorrow. :)", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1891092540918610", 
+        "name": "Paul Madsen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213695757206861", 
+        "name": "Chaz Fenske", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213053733991173", 
+        "name": "Dan Zeller", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1982288902036529", 
+        "name": "Emily Wydo", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQTNOall6TVRRek16VTFPakUwTlRBeU1EYzROREk2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXdOVE0yTkRjeE1qQTJPakUwTlRBeU1UWTBPRE02TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

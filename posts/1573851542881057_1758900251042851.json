@@ -1,0 +1,47 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2016-09-22T22:28:45+0000", 
+        "from": {
+          "id": "1708303689221509", 
+          "name": "Jenifer Smith"
+        }, 
+        "id": "1758984211034455", 
+        "message": "I have a spot, but we aren't going to the lessons beforehand!"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMxT0RrNE5ESXhNVEF6TkRRMU5Ub3hORGMwTlRnek16STEZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMxT0RrNE5ESXhNVEF6TkRRMU5Ub3hORGMwTlRnek16STEZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1685824318145672", 
+    "name": "Krista Keranen"
+  }, 
+  "id": "1573851542881057_1758900251042851", 
+  "message": "Hello everyone! Quick question: does anyone have an extra seat in their car for swing dancing tonight? (Disclaimer: I am a HUGE rookie so if anyone else is going to the lessons beforehand/ has a spare spot/ doesn't mind having me tag along, that would be especially fantastic and I would be so incredibly grateful!) Please let me know, thanks!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1681439038583153", 
+        "name": "Lauren Otto", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNeE1qVTROamd4TkRveE5EYzBOVFl6TXpJd09qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXhOVEV5TWpBeU5UZAzNPakUwTnpRMU9EQTNOakE2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

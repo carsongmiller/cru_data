@@ -1,0 +1,38 @@
+{
+  "from": {
+    "id": "10215439423678604", 
+    "name": "Nathan Studanski"
+  }, 
+  "id": "1573851542881057_1665267587072785", 
+  "message": "Friendly reminder for all of the men in Cru that we've got a Super Bowl to play in on Saturday. 1PM East River Flats tackle football vs the team of men from the Navigators and half apps after.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10156044408978854", 
+        "name": "Alex Winchell", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214384443635599", 
+        "name": "Bradley Ni", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1878457152168690", 
+        "name": "Matthew Eidem", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213485001751827", 
+        "name": "Niccole Citlali Khail", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRZAd05EVTFNREF5TXpveE5EVTBOVEU0TmpZAeU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TnpBMk56QXpPRFV6T2pFME5UUTFNalExT0RnNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "from": {
+    "id": "10156118460422932", 
+    "name": "Emma Volbrecht"
+  }, 
+  "id": "1573851542881057_1792887307644145", 
+  "message": "Hello Cru! \nFor those that do not know, we have a Greek (sorority/fraternity) ministry that Jon and I have been leading for the past couple years. And this week in place of our normal study, we are having a Christmas party and would love for it to be an outreach event. I'm going to take a stab in the dark to say all know Greek students, so please invite them to our Greek Cru Christmas party :)", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1679886395424761", 
+        "name": "Genesis G. Mendoza", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1792025010830841", 
+        "name": "Kailee Kriegel", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1590799184292470", 
+        "name": "Amy Yi", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1681439038583153", 
+        "name": "Lauren Otto", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210153696629326", 
+        "name": "Brianna Jo Legler", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10211710547027376", 
+        "name": "Natalie Coon", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210164788188609", 
+        "name": "Mackenzie Darling", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRZAd05Ua3pNemczTlRveE5EZA3dOemc0TXpRMk9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXlNVEF5TlRFM09UZAzFPakUwT0RBNE9UYzRPVEU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

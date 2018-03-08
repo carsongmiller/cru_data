@@ -1,0 +1,28 @@
+{
+  "from": {
+    "id": "1708303689221509", 
+    "name": "Jenifer Smith"
+  }, 
+  "id": "1573851542881057_1637434923189385", 
+  "message": "Hey everyone! Just a reminder that there will be a Bridges International info session today at 1:00pm at the Cru House! Pancakes will be served, and you'll have the opportunity to learn what Bridges is and what (and Who) we're all about. Hope to see you there!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214984789238913", 
+        "name": "Gabby Gonzalez", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRRd05EWTBNVFkzTURveE5EUTJNemszTnpJeE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXhPRGMwTmprd09UYzBPakUwTkRZAME1UazVORFE2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

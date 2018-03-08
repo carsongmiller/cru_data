@@ -1,0 +1,28 @@
+{
+  "from": {
+    "id": "1564345963660661", 
+    "name": "Matthew Edgar"
+  }, 
+  "id": "1573851542881057_1955375484728659", 
+  "message": "We got a sharing opportunity in Coffman today at 2pm. Meet at the top of the escalators!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10214541165742552", 
+        "name": "John Ke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1802845369788501", 
+        "name": "Maddie Causey", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhPRGt4TmpVMk5qWTJPakUxTVRBNU16YzJNRFk2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRJeU16RXdOREEwT0RveE5URXdPVFEwT0RRMU9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

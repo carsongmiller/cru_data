@@ -1,0 +1,134 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-01-20T03:02:14+0000", 
+        "from": {
+          "id": "10213053733991173", 
+          "name": "Dan Zeller"
+        }, 
+        "id": "1814182548847954", 
+        "message": "Be there at 7:30"
+      }, 
+      {
+        "created_time": "2017-01-20T03:06:17+0000", 
+        "from": {
+          "id": "10214745348565190", 
+          "name": "Reid Emmons"
+        }, 
+        "id": "1814184258847783", 
+        "message": "I'll be there at 7:29"
+      }, 
+      {
+        "created_time": "2017-01-20T03:13:21+0000", 
+        "from": {
+          "id": "10214532454047747", 
+          "name": "Javier Bowen"
+        }, 
+        "id": "1814185898847619", 
+        "message": "7:10"
+      }, 
+      {
+        "created_time": "2017-01-20T03:13:47+0000", 
+        "from": {
+          "id": "10213053733991173", 
+          "name": "Dan Zeller"
+        }, 
+        "id": "1814185988847610", 
+        "message": "I'm leaving now"
+      }, 
+      {
+        "created_time": "2017-01-20T03:14:05+0000", 
+        "from": {
+          "id": "10214532454047747", 
+          "name": "Javier Bowen"
+        }, 
+        "id": "1814186078847601", 
+        "message": "I already left"
+      }, 
+      {
+        "created_time": "2017-01-20T03:14:53+0000", 
+        "from": {
+          "id": "10213053733991173", 
+          "name": "Dan Zeller"
+        }, 
+        "id": "1814186282180914", 
+        "message": "Just arrived"
+      }, 
+      {
+        "created_time": "2017-01-20T03:15:26+0000", 
+        "from": {
+          "id": "10214532454047747", 
+          "name": "Javier Bowen"
+        }, 
+        "id": "1814186392180903", 
+        "message": "I don't see you."
+      }, 
+      {
+        "created_time": "2017-01-20T03:16:08+0000", 
+        "from": {
+          "id": "10215428465094757", 
+          "name": "Michael Francis"
+        }, 
+        "id": "1814186562180886", 
+        "message": "Well Dan is bored at Walter, I'll be there 8ish."
+      }, 
+      {
+        "created_time": "2017-01-20T04:26:01+0000", 
+        "from": {
+          "id": "10214541165742552", 
+          "name": "John Ke"
+        }, 
+        "id": "1814212248844984", 
+        "message": "Finally, it took till my last semester, but I don't have Friday morning class so I can actually come to these."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd4TkRJeE1qSTBPRGcwTkRrNE5Eb3hORGcwT0RnMk16WXgZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd4TkRFNE1qVTBPRGcwTnprMU5Eb3hORGcwT0RneE16TTAZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10215428465094757", 
+    "name": "Michael Francis"
+  }, 
+  "id": "1573851542881057_1814182105514665", 
+  "message": "Hey all! Have you ever wanted to get into scripture alone but have no idea where to start? Have you ever wanted to get into the word regularly but have not been able to set and stick with a time? I definitely have.  If so, join me tomorrow morning at the Purple Onion for this semesters launch of Project Abide.\n\nWhere: Purple Onion Cafe \n\nWhen: 8-10AM (Come for however long!) \n\nWhy: Super encouraging to pray and be at peace with the semester and learn from God's Word.\n\nWhat: Come in, read and pray. Discuss things from the Bible that may be tough to understand with the goal of learning together! \n\nHope to see you tomorrow!\n\nAs a prize for reading to the end, I will buy the drink of the first 2 people who show up to study the Word!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10214541165742552", 
+        "name": "John Ke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1710378252326163", 
+        "name": "Nick Anderson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1982288902036529", 
+        "name": "Emily Wydo", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10202461512036506", 
+        "name": "Mike Mui", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNeE1qVTROamd4TkRveE5EZAzBPRGd4TXpFNE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRJeU16RXdOREEwT0RveE5EZAzBPRGcyTWprMk9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

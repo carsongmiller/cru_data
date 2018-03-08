@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "10210164788188609", 
+    "name": "Mackenzie Darling"
+  }, 
+  "id": "1573851542881057_1660849880847889", 
+  "message": "Hello everyone! The Timberwolves game is just 3 days away (1/23)! With that being so soon, I have some important info for everyone attending that was included in this week's email but here it is again in case you missed it:\n\nYou can still purchase tickets!! We want everyone to invite a roommate and/or a friend!! Let's make this a huge group! \nCost: $23. Use this link to purchase your ticket: www.timberwolves.com/groupoffers\nUse promo code: CRU\n \nWhen and Where: Meet at the East Bank light rail station at 4:50pm. We will be getting on the train and leaving at 5pm sharp! \nRemember: the train leaves at 5:00 and people need to purchase tickets for the light rail before hand. Plan accordingly!\n \n*IMPORTANT* Have your ticket ready to go before Saturday. \nTo do this: \n1. Download the \"Flash Seats\" app\n2. Login with the information you used to buy the ticket(s)\n3. The ticket will be in the app to get into the game.\n* If you do not want to do this, the debit/credit card you used to purchase the ticket(s) can be swiped when you get to the game to get in as well!\n \nContact Paul or myself with any questions :)", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10215213997649049", 
+        "name": "Liz Sampson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210539899119228", 
+        "name": "Claire Bulat", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214793639091461", 
+        "name": "Kennedy Van Heerde", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRFME1EQTVOamd4TURveE5EVXpOVEU1TURReE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRRd05qY3dNelUwTlRveE5EVXpOVGN4TURNME9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

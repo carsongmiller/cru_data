@@ -1,0 +1,28 @@
+{
+  "from": {
+    "id": "1698995160144583", 
+    "name": "Croix Menzel"
+  }, 
+  "id": "1573851542881057_1637392723193605", 
+  "message": "Did you know there's over 6,500 international students at UMN?! We were commanded to bring the gospel to the nations, and now the nations have come to us!\n\nCome and learn about what Bridges International (the international student ministry of Cru) is doing on campus to reach these future world leaders. We will be serving pancakes at the Cru House from 1 to 2:30 today.\n\nHope to see you there!\n\nhttp://www.bridgesinternational.com", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1928038333877793", 
+        "name": "Amy Shields", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214984789238913", 
+        "name": "Gabby Gonzalez", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRRd05EWTBNVFkzTURveE5EUTJNemc1TmpReU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXdNVFE1TXpRNU9UTTFPakUwTkRZAME1UTXdPRFk2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

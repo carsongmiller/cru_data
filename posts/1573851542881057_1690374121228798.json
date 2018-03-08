@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "1969880233036990", 
+    "name": "Jason Adlam"
+  }, 
+  "id": "1573851542881057_1690374121228798", 
+  "message": "Hey CSE folks! If you are voting in the all campus elections and want to do a write in vote for the CSE senate positions, go ahead and put me down! Jason Adlam (adlam001) is what you need to enter! I think it would be fun to represent ya'll I've decided!\n\nHappy voting to you all!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1991513320875521", 
+        "name": "Emily Magnuson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212733447989285", 
+        "name": "Matt Almquist", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10156143552337845", 
+        "name": "Taylor Woodall", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TlRFek5qY3lPRFEwT2pFME5UazVOekl3TXpnNk1qVTBNRGsyTVRZAeE13PT0ZD", 
+        "before": "TVRBd01EQXdOVEEyTVRZANU1qSTFPakUwTlRrNU9EUTBPRFU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "10156890043133272", 
+    "name": "Philip Bontrager"
+  }, 
+  "id": "1573851542881057_1645372809062263", 
+  "message": "Hi Everyone! Here's the official event for the All Campus Worship event that was announced last night at Shift. Let's be honest, if you're going to put off studying anyways, why not doing something really worthwhile with that time?", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10211597792483941", 
+        "name": "Faith Gnerer", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210589201029116", 
+        "name": "Andrea Meitler", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212837471083319", 
+        "name": "Jacklyn Nelson", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRVNE5URTNOVGt3T0RveE5EUTVNVFk1TnpRMk9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRNek9UVTFOelV6T0RveE5EUTVOVEE1TVRJeE9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

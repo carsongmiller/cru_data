@@ -1,0 +1,364 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-08-02T17:02:42+0000", 
+        "from": {
+          "id": "10213647465274613", 
+          "name": "Thomas Brynildson"
+        }, 
+        "id": "1910332469232961", 
+        "message": "Can never go to shift because of Wednesday night class. Finally is able to switch night class to Thursday night for a semester. Shift then gets moved to Thursday night \ud83d\ude43 #badluckThomas"
+      }, 
+      {
+        "created_time": "2017-08-02T17:08:50+0000", 
+        "from": {
+          "id": "1614758415237805", 
+          "name": "Haley Trewin"
+        }, 
+        "id": "1910334042566137", 
+        "message": "GET HYPE"
+      }, 
+      {
+        "created_time": "2017-08-02T21:54:45+0000", 
+        "from": {
+          "id": "10213053733991173", 
+          "name": "Dan Zeller"
+        }, 
+        "id": "1910412455891629", 
+        "message": "Shots fired @navs"
+      }, 
+      {
+        "created_time": "2017-08-11T17:00:48+0000", 
+        "from": {
+          "id": "10101920806305764", 
+          "name": "Nathaniel Broughton"
+        }, 
+        "id": "1913983365534538", 
+        "message": "No shots are being fired at Navs.  People just wanted to be able to hangout more after Shift and felt that Thursday night is a better night to do that then Wednesday night."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGt4TXprNE16TTJOVFV6TkRVek9Eb3hOVEF5TkRjd09EUTQZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGt4TURNek1qUTJPVEl6TWprMk1Ub3hOVEF4Tmprek16WXkZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10101540307979112", 
+    "name": "Ryan Carlson"
+  }, 
+  "id": "1573851542881057_1910331075899767", 
+  "message": "We are excited to announce that Cru's weekly meeting, SHIFT, is officially moving to Thursday Nights this year!  Same time and same location: 8pm @ Stadium Village Church.  Spread the word.  Let's make Cru the party to be at on Thursday nights!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1323884867717501", 
+        "name": "Allie Kunesh", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10101920806305764", 
+        "name": "Nathaniel Broughton", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1592496450808425", 
+        "name": "Emily Sarah Borene", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10156118460422932", 
+        "name": "Emma Volbrecht", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1533639273352268", 
+        "name": "Curtis Zicker", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2453373934887885", 
+        "name": "Leticia Wamulumba", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2165092553504810", 
+        "name": "Joshua Gudahl", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2004986882861851", 
+        "name": "Brad Gustafson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1792025010830841", 
+        "name": "Kailee Kriegel", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10212656145910015", 
+        "name": "Shelby Larson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1523596557725335", 
+        "name": "Katie Kickhafer", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1468954823225460", 
+        "name": "Rachel Wagner", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1528520517184890", 
+        "name": "Annie Harwell", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1685824318145672", 
+        "name": "Krista Keranen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "877512955738390", 
+        "name": "Ryan Fredlund", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213695757206861", 
+        "name": "Chaz Fenske", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10208146727706205", 
+        "name": "Calvin Treichler", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1630925723635542", 
+        "name": "Chloe Crawford", 
+        "type": "SAD"
+      }, 
+      {
+        "id": "1768598043152636", 
+        "name": "Emma Schwartz", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1946577058691567", 
+        "name": "Josie Wilde", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10211393387410731", 
+        "name": "Emily Hunt", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210197584648388", 
+        "name": "Rachel Balge", 
+        "type": "WOW"
+      }, 
+      {
+        "id": "10155316565428237", 
+        "name": "Autumn Beckman", 
+        "type": "WOW"
+      }, 
+      {
+        "id": "1590799184292470", 
+        "name": "Amy Yi", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213457272737717", 
+        "name": "Erik Tungland", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1694792690572124", 
+        "name": "Amy Olsen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1566873946711485", 
+        "name": "Alyssa Burk", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210693817118409", 
+        "name": "Amber Koehnen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215428465094757", 
+        "name": "Michael Francis", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1558266234253442", 
+        "name": "Gabe Kaufmann", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210766752821908", 
+        "name": "Anna Oliver", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "915660251916466", 
+        "name": "Micaela Schneider", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2173505262675191", 
+        "name": "Everett Tsang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213485001751827", 
+        "name": "Niccole Citlali Khail", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10154893770941459", 
+        "name": "Alyssa Ofstedahl", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1697016123691986", 
+        "name": "Jennifer Ebert", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212515445034913", 
+        "name": "Bri Schmitt", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1753773584653341", 
+        "name": "Sydney Schneider", 
+        "type": "WOW"
+      }, 
+      {
+        "id": "2228557317170154", 
+        "name": "Sam Sheibley", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2037952492886789", 
+        "name": "Natasha Peterson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2136769109670455", 
+        "name": "Cody Tucholke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1710378252326163", 
+        "name": "Nick Anderson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1969880233036990", 
+        "name": "Jason Adlam", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212699740225924", 
+        "name": "Peter Kelly", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212788975912069", 
+        "name": "Brooke Halvorson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210913328729126", 
+        "name": "Kristen Burton", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1887238894623983", 
+        "name": "Grant Kregness", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210164788188609", 
+        "name": "Mackenzie Darling", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1614758415237805", 
+        "name": "Haley Trewin", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1802845369788501", 
+        "name": "Maddie Causey", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1569233249791830", 
+        "name": "Alecia Janzen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214541165742552", 
+        "name": "John Ke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213647465274613", 
+        "name": "Thomas Brynildson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215535507686157", 
+        "name": "Amy Underwood", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1578492555567044", 
+        "name": "Katelyn Schroeder", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1686449131405584", 
+        "name": "Olivia Johnson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1922774227750507", 
+        "name": "Sarah Strandmark", 
+        "type": "LOVE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdOVE00TkRReE16SXdPakUxTURFMk9UTXhORE02TnpnNE5qUTRNRE0zT1RFek16RXkZD", 
+        "before": "TVRBd01EQXlPRGd3TURBNE1EazNPakUxTURNek16QTBPREk2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

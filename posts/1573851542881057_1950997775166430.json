@@ -1,0 +1,86 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-11-07T23:40:10+0000", 
+        "from": {
+          "id": "10210164788188609", 
+          "name": "Mackenzie Darling"
+        }, 
+        "id": "1950998161833058", 
+        "message": "Don't forget, there's no SHIFT on Thanksgiving!!"
+      }, 
+      {
+        "created_time": "2017-11-08T02:04:28+0000", 
+        "from": {
+          "id": "1316990971780613", 
+          "name": "Chris Heen"
+        }, 
+        "id": "1951026648496876", 
+        "message": "10/10 would reccomend being a greater!!!  It's a beary good time."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGsxTVRBeU5qWTBPRFE1TmpnM05qb3hOVEV3TVRBMk5qWTQZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGsxTURrNU9ERTJNVGd6TXpBMU9Eb3hOVEV3TURrNE1ERXcZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "989448324550830", 
+    "name": "Teegan Shultz"
+  }, 
+  "id": "1573851542881057_1950997775166430", 
+  "message": "Hey friends! \n\nAre you looking for opportunities to be more involved with Cru, or do you love talking to people? If you answered yes to one or both of those questions, then I have a great opportunity to share with you!\n\nBefore Shift, there is a team of greeters who act as friendly faces to those who are new to Shift/Cru, and also make people smile before they walk through the doors into the Shift service!\n\nWe would love to have you join us and volunteer with being a greeter! Sign up with your friends, Bible study, or come meet a new team of volunteers! We need 4 people for each Shift service. Just sign up, and be at the church at 7:30pm on whichever Thursday you signed up for!\n\nThank you all, and see you at Shift! (:\n\nLink to sign up: ", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1811112372233552", 
+        "name": "Nate Kuelbs", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1719391164748428", 
+        "name": "Shantina Manning", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1978027625545858", 
+        "name": "Emily Fuhr", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1946577058691567", 
+        "name": "Josie Wilde", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1534448893342504", 
+        "name": "Cassie Anderson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10159754534395574", 
+        "name": "Sam Xiong", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1614758415237805", 
+        "name": "Haley Trewin", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhNVEE1T0RjeU9UZAzFPakUxTVRBd09UYzVNelU2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXdNRFEwTWpFNE9UYzJPakUxTVRBeE5URXlOVFE2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

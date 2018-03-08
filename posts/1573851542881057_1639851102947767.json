@@ -1,0 +1,48 @@
+{
+  "from": {
+    "id": "10212056871558725", 
+    "name": "Taylor Varghese"
+  }, 
+  "id": "1573851542881057_1639851102947767", 
+  "message": "Hey guys! The Cru house is open for renting next year!! Here's some info :)\n\nBoth apartments are up for rent starting September 1st.  Contact Pete Lehner for more information and showing. plehner@lindsaygroup.com #612-963-4844\n \nMain Floor: 3 Bedroom (up to 4 tenants). Large living space. Full galley kitchen\n\nUpper Floor: 4 bedroom (up to 5 tenants). New carpet / paint throughout fall 2011. Three bathrooms. Kitchen / living room. LOTS of storage\n\nFor Both: Front / rear door access, deadbolts on both. New well insulated windows throughout. Security lighting on all night around the entire building. Doors locked at all times. Off street parking available for rent. On site coin-op washer / dryer. Snow/lawn care/maintenance handled by property manager. Utilities included in rent. Internet: $25 per month per apartment. Internet jacks in each room as well as wireless wifi throughout apartment", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1630925723635542", 
+        "name": "Chloe Crawford", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213217453089024", 
+        "name": "Josh Bartelme", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10101920806305764", 
+        "name": "Nathaniel Broughton", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213254621652659", 
+        "name": "Leah Wolf", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10210589201029116", 
+        "name": "Andrea Meitler", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10208582654163248", 
+        "name": "Kassy Linbo", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRneE5UazNOakk0T0RveE5EUTNNamN3TWpVME9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRBd01EQXhOVFF6T0RrNU1EZAzJPakUwTkRjek9URXpNekE2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

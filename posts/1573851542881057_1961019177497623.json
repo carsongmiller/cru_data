@@ -1,0 +1,60 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-11-30T19:43:26+0000", 
+        "from": {
+          "id": "1614758415237805", 
+          "name": "Haley Trewin"
+        }, 
+        "id": "1961026120830262", 
+        "message": "Allie Kunesh?"
+      }, 
+      {
+        "created_time": "2017-11-30T19:44:25+0000", 
+        "from": {
+          "id": "1109081679227371", 
+          "name": "Rachel Ensign"
+        }, 
+        "id": "1961026507496890", 
+        "message": "Hi! I\u2019m a Dance major and a bunch of my friends have taken it. Dm me for more info!"
+      }, 
+      {
+        "created_time": "2017-11-30T20:00:53+0000", 
+        "from": {
+          "id": "1323884867717501", 
+          "name": "Allie Kunesh"
+        }, 
+        "id": "1961029707496570", 
+        "message": "We have African dance in the dance program and I took it both semesters last year!"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGsyTVRBeU9UY3dOelE1TmpVM01Eb3hOVEV5TURjeU1EVXoZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGsyTVRBeU5qRXlNRGd6TURJMk1qb3hOVEV5TURjeE1EQTIZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10101920812957434", 
+    "name": "Bethany Broughton"
+  }, 
+  "id": "1573851542881057_1961019177497623", 
+  "message": "Hi, it's me again!  Wondering if any of you know anyone who does African Dance.  In college this was a popular class at my University and many people took it as an elective.  Is this a thing at the U?  This is for a different piece I am working on for Winter Conference and would love a connection if anyone has one.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10213485001751827", 
+        "name": "Niccole Citlali Khail", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRZAd05EVTFNREF5TXpveE5URXlNRFk1TlRneU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRZAd05EVTFNREF5TXpveE5URXlNRFk1TlRneU9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

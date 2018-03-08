@@ -1,0 +1,33 @@
+{
+  "from": {
+    "id": "1907180935962692", 
+    "name": "Luke Hemphill"
+  }, 
+  "id": "1573851542881057_1768579213408288", 
+  "message": "Who's pumped for fall retreat?! I know I am! On a different note, if you're a guy in Cru and you're interested in checking out Gospel housing for next year, the Grandpa Green is hoping to get at least 5 new guys for next year! Gospel housing has been an amazing experience and I would highly recommend it. I mean where else can you live in a community of like minded individuals who love Jesus? That being said, if you're interested in living at Grandpa Green next year, we'll be holding tours/info sessions on Sunday evenings. You'll get to eat dinner with all the roomies and we'll tell you everything you need to know. If you're interested, you can message me or text me at 612-986-2098. See you all at fall retreat!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1607037739423373", 
+        "name": "Julia Christine Asmus", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1630925723635542", 
+        "name": "Chloe Crawford", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1663116050420893", 
+        "name": "James Keppeler", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhOamMxTkRFeU5UZAzRPakUwTnpZAME5qWXlNalU2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXpOVEUwT0RnMU9UYzNPakUwTnpZAME56WTVNelU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

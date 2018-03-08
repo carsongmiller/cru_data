@@ -1,0 +1,53 @@
+{
+  "from": {
+    "id": "1468954823225460", 
+    "name": "Rachel Wagner"
+  }, 
+  "id": "1573851542881057_1956618334604374", 
+  "message": "Good morning, happy Monday! So there will be no sharing times this week :(   BUT you can still enjoy your last few days in class before break. Have a great Thanksgiving!!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "931659680321954", 
+        "name": "Emma Schildgen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1944157972265605", 
+        "name": "Courtney Yung", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "533769680320075", 
+        "name": "Joel Atella", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1590799184292470", 
+        "name": "Amy Yi", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214541165742552", 
+        "name": "John Ke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1607037739423373", 
+        "name": "Julia Christine Asmus", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQTBNRGt4TmpjeU1UZAzJPakUxTVRFeE9Ea3dOekE2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQTBNek0zT1RFMU5UUTNPakUxTVRFeU1ERTRNVE02TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "from": {
+    "id": "1635539149837919", 
+    "name": "Alex German"
+  }, 
+  "id": "1573851542881057_1709993032600240", 
+  "message": "Hey guys! While the previous semester is still fresh, would you be willing to fill out an input form? \nOne thing I have noticed in my 4 years of being involved in Cru is a lack of communication. Staff don't necessarily show details students would like to know, and students do not bring up issues with staff (the people who can actually do something about some issues). This form will hopefully begin the conversation between staff and students as to how we, together, can make Cru the best it can be. Thanks!\n\n", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10215428465094757", 
+        "name": "Michael Francis", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRVek1UUXdOell4TWpveE5EWTBORGcyTWpJek9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRVek1UUXdOell4TWpveE5EWTBORGcyTWpJek9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

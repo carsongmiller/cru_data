@@ -1,0 +1,38 @@
+{
+  "from": {
+    "id": "10213485001751827", 
+    "name": "Niccole Citlali Khail"
+  }, 
+  "id": "1573851542881057_1695189824080561", 
+  "message": "Hey ya'll! You probably got some invitations today from staff to like two different facebook groups:\n\n1. Cru Winter Conference\n2. Cru Winter Conference /// Minneapolis\n\nThe name of all winter conferences around the country are now changing to Cru Winter Conference and we're really excited about it :) Here's the link to the website, for those of you who love winter conference (and basically all things conferences), check it out--AND YOU COULD EVEN REGISTER NOW IF YOU WANT! \n\n", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10212056871558725", 
+        "name": "Taylor Varghese", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215535507686157", 
+        "name": "Amy Underwood", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1698995160144583", 
+        "name": "Croix Menzel", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10215251311658361", 
+        "name": "Ashlinn Thommes", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNd01USTNNamMzTnpveE5EWXhNVEEzT0RreU9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRJNE1qTTFNRFEyTlRveE5EWXhNVFl6TkRneE9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

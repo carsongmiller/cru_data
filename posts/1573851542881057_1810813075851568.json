@@ -1,0 +1,76 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-01-12T20:55:17+0000", 
+        "from": {
+          "id": "10213053733991173", 
+          "name": "Dan Zeller"
+        }, 
+        "id": "1810844282515114", 
+        "message": "Selling point: I'll be your bunk mate. Oh the fun we'll have."
+      }, 
+      {
+        "created_time": "2017-01-14T18:31:31+0000", 
+        "from": {
+          "id": "10214760871393772", 
+          "name": "Tanner Brandt"
+        }, 
+        "id": "1811751109091098", 
+        "message": "I'm glad to see the 8 likes on Dan's comment weren't just the other 8 guys in The Embassy..."
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd4TVRjMU1URXdPVEE1TVRBNU9Eb3hORGcwTkRFNE5qa3gZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd4TURnME5ESTRNalV4TlRFeE5Eb3hORGcwTWpVME5URTMZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "10155778909905867", 
+    "name": "Micah J. Farenik"
+  }, 
+  "id": "1573851542881057_1810813075851568", 
+  "message": "Hello fellow students! This summer, I will be getting married, which means I will not need my bed in The Embassy this summer.  I am looking for someone to sublease starting in June.  Please message me if you're interested!!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10159723812655430", 
+        "name": "Stephanie C. Farenik", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1039423292866877", 
+        "name": "Mark Elrod", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2173505262675191", 
+        "name": "Everett Tsang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215182017928851", 
+        "name": "Lydia Holmes", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214532454047747", 
+        "name": "Javier Bowen", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRNeE1qVTROamd4TkRveE5EZAzBNalV5TVRJNE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TmpjNU16RXdOREk1T2pFME9EUTFPRFEzTXprNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

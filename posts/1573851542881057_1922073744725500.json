@@ -1,0 +1,58 @@
+{
+  "from": {
+    "id": "1719391164748428", 
+    "name": "Shantina Manning"
+  }, 
+  "id": "1573851542881057_1922073744725500", 
+  "message": "Hello everyone! \nHere is the upcoming events calendar for the first 6 weeks of Cru.\nHopefully this helps with schedule planning purposes for you. We have a great year ahead of us and are excited to see you there!\n", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1566873946711485", 
+        "name": "Alyssa Burk", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1922774227750507", 
+        "name": "Sarah Strandmark", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1323884867717501", 
+        "name": "Allie Kunesh", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1744040842330637", 
+        "name": "Sadie Berg", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155316565428237", 
+        "name": "Autumn Beckman", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1590799184292470", 
+        "name": "Amy Yi", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1499966456718958", 
+        "name": "Emma Pitzl", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1614758415237805", 
+        "name": "Haley Trewin", 
+        "type": "HAHA"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhNVEE1T0RjeU9UZAzFPakUxTURReE1UYzNNems2TnpnNE5qUTRNRE0zT1RFek16RXkZD", 
+        "before": "TVRBd01EQXhOalkyT0RNeU16TTJPakUxTURReE9EQXlPREU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

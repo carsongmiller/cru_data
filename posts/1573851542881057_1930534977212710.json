@@ -1,0 +1,48 @@
+{
+  "from": {
+    "id": "1220166774749498", 
+    "name": "Dakota Snustad"
+  }, 
+  "id": "1573851542881057_1930534977212710", 
+  "message": "Bridges is hosting its first Connect Dinner of the semester on Friday and we would love it you guys joined us!  We'll be serving breakfast food, so its going to be a great night!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10154937296541244", 
+        "name": "Rebekah Krussow", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213203815723739", 
+        "name": "Carson Gerard Miller", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1316990971780613", 
+        "name": "Chris Heen", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1922774227750507", 
+        "name": "Sarah Strandmark", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10208514289294470", 
+        "name": "Chelsea Spencer", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1969880233036990", 
+        "name": "Jason Adlam", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdORFV3T1RnM05UQTRPakUxTURVNU5UZA3hNalE2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TlRJeU16a3hNalF6T2pFMU1EWXdNalkwTWpjNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "comments": {
+    "data": [
+      {
+        "created_time": "2017-06-19T00:52:32+0000", 
+        "from": {
+          "id": "1630925723635542", 
+          "name": "Chloe Crawford"
+        }, 
+        "id": "1887374031528805", 
+        "message": "Since this is a closed group I'll post my number: 763-234-5586, or you can FB message me!"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGc0TnpNM05EQXpNVFV5T0Rnd05Ub3hORGszT0RNek5UVXkZD", 
+        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGc0TnpNM05EQXpNVFV5T0Rnd05Ub3hORGszT0RNek5UVXkZD"
+      }
+    }
+  }, 
+  "from": {
+    "id": "1630925723635542", 
+    "name": "Chloe Crawford"
+  }, 
+  "id": "1573851542881057_1887275668205308", 
+  "message": "Hello! \nSome of you may know that Jacklyn George used to host a wellness brunch for those struggling with mental health. I would love to continue that tradition this summer and next fall, but I need a group of people to join me! If anyone is looking for a group to discuss mental health issues in a Christian, loving community of people, this is the group for you! Please contact me if you are at all interested and we will start coming up with meeting times!\n\nNo one should struggle alone. I love you and want to share your burden and help you heal. \n\nPeace and blessings \u2764\ufe0f\nChloe", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10213181304641403", 
+        "name": "Christopher Pang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10101540307979112", 
+        "name": "Ryan Carlson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10212837471083319", 
+        "name": "Jacklyn Nelson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1792025010830841", 
+        "name": "Kailee Kriegel", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155316565428237", 
+        "name": "Autumn Beckman", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "10155378191483710", 
+        "name": "Amy Stein", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1074682739340897", 
+        "name": "Brea Biebert", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1922774227750507", 
+        "name": "Sarah Strandmark", 
+        "type": "LOVE"
+      }, 
+      {
+        "id": "1938410466412833", 
+        "name": "Joel Komurka", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2173505262675191", 
+        "name": "Everett Tsang", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXdORGN5TVRVME5qQTNPakUwT1RjNE1UUTNOakU2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRZAMU9EazRNVEF3TlRveE5UQXpNelV6TmpVMk9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

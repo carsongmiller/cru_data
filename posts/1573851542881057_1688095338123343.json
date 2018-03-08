@@ -1,0 +1,23 @@
+{
+  "from": {
+    "id": "10213350226304092", 
+    "name": "Nicholas Jackson"
+  }, 
+  "id": "1573851542881057_1688095338123343", 
+  "message": "Hello CRUniverse,\nMy home church, Living Word Christian Center is inviting the U of M Cru to the 5th Service for one Amazing Night. They would love it if all of you guys came out. You'll have an Excellent experience.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10156044408978854", 
+        "name": "Alex Winchell", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TnpBMk56QXpPRFV6T2pFME5UazBOelkxTmpNNk1qVTBNRGsyTVRZAeE13PT0ZD", 
+        "before": "TnpBMk56QXpPRFV6T2pFME5UazBOelkxTmpNNk1qVTBNRGsyTVRZAeE13PT0ZD"
+      }
+    }
+  }
+}

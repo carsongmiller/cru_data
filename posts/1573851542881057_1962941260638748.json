@@ -1,0 +1,43 @@
+{
+  "from": {
+    "id": "2037952492886789", 
+    "name": "Natasha Peterson"
+  }, 
+  "id": "1573851542881057_1962941260638748", 
+  "message": "The Bridges Christmas party is this Saturday, December 9th at 7pm! Come for an awesome time with friends, foods, and learning more about the reason for the season! We are hoping to host off campus and will be carpooling to the party so please fill out this Google form by Friday to ensure you get a ride! Hope to see many of you there!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "10213181304641403", 
+        "name": "Christopher Pang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1805372482808856", 
+        "name": "Bethany Schluter", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1578492555567044", 
+        "name": "Katelyn Schroeder", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10155220249543660", 
+        "name": "Jenna Olson", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10203800311725483", 
+        "name": "Connor Hashemi", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRjMU1ERTVNakF3TmpveE5URXlORE0yTWpJeE9qSTFOREE1TmpFMk1UTT0ZD", 
+        "before": "TVRZAMU9EazRNVEF3TlRveE5URXlOVEV5TXpReE9qSTFOREE1TmpFMk1UTT0ZD"
+      }
+    }
+  }
+}

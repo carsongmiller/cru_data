@@ -1,0 +1,53 @@
+{
+  "from": {
+    "id": "10156890043133272", 
+    "name": "Philip Bontrager"
+  }, 
+  "id": "1573851542881057_1666990443567166", 
+  "message": "Hi guys! Quick clarification -- this event is not an audition for worship band. It's a training session about worshiping God musically, whether that's on-stage or off. Let me know if you have questions, and I hope to see you there!", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1196970020433364", 
+        "name": "Krystyna Bontrager", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1708303689221509", 
+        "name": "Jenifer Smith", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215182017928851", 
+        "name": "Lydia Holmes", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1887238894623983", 
+        "name": "Grant Kregness", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213485001751827", 
+        "name": "Niccole Citlali Khail", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "2173505262675191", 
+        "name": "Everett Tsang", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhPRGMwTmprd09UYzBPakUwTlRRNU9EUXpOekk2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXpOakV4TXpJd056UTRPakUwTlRVd056UTRNRFU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}

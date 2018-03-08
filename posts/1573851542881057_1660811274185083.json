@@ -1,0 +1,48 @@
+{
+  "from": {
+    "id": "10156890043133272", 
+    "name": "Philip Bontrager"
+  }, 
+  "id": "1573851542881057_1660811274185083", 
+  "message": "Hi guys, OneChurch is just around the corner! I don't know if you realize, but this event is kind of a big deal. There will be hundreds of believers from all different student organizations, churches, and ministries, and Nick Hall from Pulse straight up dropped a prior engagement in order to speak to us. God is stirring up the body to unite in worship, and we're aiming high believing that He'll come through.\n\nDo you want to be apart of this? We still need more volunteers to help with things like serving coffee, greeting people, running a contact table for Cru, and spreading the word about the event. Sign up to help us make this vision a reality!\n\nAlso, please help by sharing the OneChurch event to get the word out. We want to see representatives from as many groups as possible, including other campuses in the area.", 
+  "reactions": {
+    "data": [
+      {
+        "id": "1196970020433364", 
+        "name": "Krystyna Bontrager", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1698995160144583", 
+        "name": "Croix Menzel", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10213254621652659", 
+        "name": "Leah Wolf", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10214319998172083", 
+        "name": "Alexis Luedtke", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "10215175597290322", 
+        "name": "Aaron Shaw", 
+        "type": "LIKE"
+      }, 
+      {
+        "id": "1832901180115687", 
+        "name": "Ian Dorney", 
+        "type": "LIKE"
+      }
+    ], 
+    "paging": {
+      "cursors": {
+        "after": "TVRBd01EQXhPRGMwTmprd09UYzBPakUwTlRNek1UQXlOVFE2TWpVME1EazJNVFl4TXc9PQZDZD", 
+        "before": "TVRBd01EQXpOakV4TXpJd056UTRPakUwTlRNek16WXlNREU2TWpVME1EazJNVFl4TXc9PQZDZD"
+      }
+    }
+  }
+}
