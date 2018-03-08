@@ -1,0 +1,96 @@
+MOST LIKES ON A SHARING POST: 56
+Info for that post:
+{
+    "angry": 0,
+    "author": "Michael Francis",
+    "haha": 0,
+    "like": 56,
+    "love": 0,
+    "message": "20 Crutons went sharing tonight!! God is so good. Pray for the people who heard the gospel!! #fireup #gobethevoiceUMN",
+    "sad": 0,
+    "wow": 0
+}
+
+
+MOST SAD'S ON A SHARING POST: 1
+Info for that post:
+{
+    "angry": 0,
+    "author": "David Morelli",
+    "haha": 0,
+    "like": 2,
+    "love": 0,
+    "message": "Hey guys! I am still looking for a male sublease for my apartment at the 4th St. Co-op beginning in January of 2018.  I live with four other awesome guys in a 3 bedroom, 3 bath apartment.  You would be sharing a bedroom with one other guy.  Rent is $460/month plus utilities which are usually $20/month.  If you know anyone who is interested, please send me a message!",
+    "sad": 1,
+    "wow": 0
+}
+
+
+MOST ANGRY'S ON A SHARING POST: : 1
+Info for that post:
+{
+    "angry": 1,
+    "author": "Joel Atella",
+    "haha": 3,
+    "like": 20,
+    "love": 0,
+    "message": "Come sharing with me today in coffman @2:00 ! Yay Jesus! Meet by the Escalators.",
+    "sad": 0,
+    "wow": 0
+}
+
+
+MOST HAHA'S ON A SHARING POST: : 3
+Info for that post:
+{
+    "angry": 1,
+    "author": "Joel Atella",
+    "haha": 3,
+    "like": 20,
+    "love": 0,
+    "message": "Come sharing with me today in coffman @2:00 ! Yay Jesus! Meet by the Escalators.",
+    "sad": 0,
+    "wow": 0
+}
+
+
+MOST LOVE'S ON A SHARING POST: : 8
+Info for that post:
+{
+    "angry": 0,
+    "author": "Matthew Edgar",
+    "haha": 0,
+    "like": 28,
+    "love": 8,
+    "message": "Hey everyone! David spoke on a very important topic at Shift tonight. Like he said, Matthew 28:18-20 shows that we are commissioned by Christ to go out and be witnesses for him. It is a responsibility of ours as Christians to share our faith with those who are not followers of the Lord. We are fortunate here at the University of Minnesota to be able to freely share our faith with others and, if you unaware, we have organized times during the week where groups of us meet in Coffman to witness to people there. \nThat being said, this business of sharing one's faith is easier said than done. I know many of you have reservations about discussing your faith with people on campus, your friends, and even your family members. \"I don't know how to share my faith with others.\" \"I don't feel comfortable going out and talking to people about this.\" If these are some of the thoughts running through your head, then let me remind you that we are not alone in this task. Our groups in Coffman go out in pairs, so you'll have another along side you when you share your faith. More importantly, it is the Holy Sprit that speaks through you when you share the Gospel with others, so your worries and hesitations will be taken away from you. How can you be afraid or hesitant when you have the Lion of Judah at your back?\nIf you are new to sharing, you can simply watch us speak to others. We will teach and equip you on how to discuss faith with others.\n\nIf you are feeling called to act on this commission, I'll be leading a sharing time tomorrow in Coffman at 3:00 pm. Meet at the top of the escalators! Soli Deo Gloria",
+    "sad": 0,
+    "wow": 0
+}
+
+
+MOST WOW'S ON A SHARING POST: : 1
+Info for that post:
+{
+    "angry": 0,
+    "author": "Rachel Wagner",
+    "haha": 0,
+    "like": 10,
+    "love": 2,
+    "message": "Rise and shine Gophers, sharing times start this week!!!! Meet me at the top of the escalators in Coffman from 4-5 today!",
+    "sad": 0,
+    "wow": 1
+}
+
+
+MOST TOTAL REACTS ON A SHARING POST: : 56
+Info for that post:
+{
+    "angry": 0,
+    "author": "Michael Francis",
+    "haha": 0,
+    "like": 56,
+    "love": 0,
+    "message": "20 Crutons went sharing tonight!! God is so good. Pray for the people who heard the gospel!! #fireup #gobethevoiceUMN",
+    "sad": 0,
+    "wow": 0
+}
